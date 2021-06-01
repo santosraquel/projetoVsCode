@@ -1,8 +1,7 @@
-import 'dart:io';
 
 void main(List<String> arguments) {
 
-  // imprimirNota();
+  imprimirNota();
   
   //aluno('Raquel');
 
@@ -14,18 +13,18 @@ void main(List<String> arguments) {
 
   /* Funções anônimas */ 
 
-    aluno( (){
-      print(',você foi reprovada!');
-    });
+    // aluno( (){
+    //   print(',você foi reprovada!');
+    // });
 
 
-    imprimirNota( (){
-      print(',nota abaixo da média');
-    });
+    // imprimirNota( (){
+    //   print(',nota abaixo da média');
+    // });
 
-    mensagem( (){
-      print('Parabéns!');
-    });
+    // mensagem( (){
+    //   print('Parabéns!');
+    // });
 
 }
 

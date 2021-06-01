@@ -1,4 +1,3 @@
-import 'package:lista_estrutura_repeticao/lista_estrutura_repeticao.dart' as lista_estrutura_repeticao;
 
 void main(List<String> arguments) {
 
